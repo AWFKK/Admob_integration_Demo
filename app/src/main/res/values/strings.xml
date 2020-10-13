@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Admob_integration_Demo</string>
+
+    <string name="open">Open</string>
+    <string name="start">Continue</string>
+    <string name="Advertisement">Advertisement</string>
+</resources>
